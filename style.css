@@ -1,0 +1,18 @@
+#head
+{
+	background-color: #999;
+	margin: 0 auto;
+	width: 50%;
+}
+
+#main,#inner,#table{
+	margin: 20px auto;
+	
+	width:50%;
+
+}
+#table{
+	text-align: center;
+	border-spacing: 10px 10px;
+	border-collapse: collapse;
+}
